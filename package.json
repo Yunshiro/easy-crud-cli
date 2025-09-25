@@ -1,0 +1,20 @@
+{
+  "name": "easy-crud-cli",
+  "version": "1.0.0",
+  "description": "a tool could generate CRUD codes.",
+  "bin": {
+    "easy-crud-cli": "./bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunshiro",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.1",
+    "handlebars": "^4.7.8",
+    "inquirer": "^12.9.6",
+    "mysql2": "^3.15.0"
+  }
+}
