@@ -11,6 +11,10 @@
   },
   "author": "Yunshiro",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yunshiro/easy-crud-cli.git"
+  },
   "dependencies": {
     "commander": "^14.0.1",
     "handlebars": "^4.7.8",
