@@ -1,5 +1,5 @@
 {
-  "name": "easy-crud-cli",
+  "name": "@yunshiro/easy-crud-cli",
   "version": "1.0.0",
   "description": "a tool could generate CRUD codes.",
   "bin": {
